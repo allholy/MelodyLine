@@ -1,0 +1,14 @@
+TITLE:: Mel
+summary:: An audio retriever from Freesound, according to melodic shapes. 
+categories:: MIR, Melody
+related:: Freesound
+
+DESCRIPTION::
+Mel is a Class that is used for retrieving audio samples from Freesound.org according to melodic shapes. It uses the link::Classes/Freesound:: quark for SuperCollider.
+
+CLASSMETHODS::
+
+METHOD:: new
+Creates a new instance.
+
+METHOD:: next
